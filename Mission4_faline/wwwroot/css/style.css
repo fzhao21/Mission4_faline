@@ -1,0 +1,22 @@
+﻿.resize {
+    width: 450px;
+    height: 600px;
+    border-radius: 20px;
+}
+.font-redo {
+    font-family:Arial;
+    margin-top: 60px;
+}
+.center {
+    text-align: center;
+}
+.line {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.outer{
+    align-items:center;
+    display: inline;
+}
