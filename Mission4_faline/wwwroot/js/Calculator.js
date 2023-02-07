@@ -60,5 +60,8 @@
         $("#grade").text("Final Grade: E");
         $("#percent").text("Percent: " + Final + "%");
     }
-   
+
+    //display the final Finals in an alert message
+
+    alert("Final Grade: " + Final + " (" + letter + ")");
 })
